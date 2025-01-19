@@ -12,7 +12,7 @@
 
 <div align="justify"> 
 
-This repository contains a Power BI dashboard created to visualize and analyze video game sales data, including key metrics such as sales by region, critic and user scores, and ratings for different platforms, genres, and publishers.
+This repository contains a **Quick Power BI dashboard** created to visualize and analyze video game sales data, including key metrics such as sales by region, critic and user scores, and ratings for different platforms, genres, and publishers.
 
 ### Data Source [is here !](https://gist.github.com/PickleSnek/14dd6c9e57d557b267566ec1a606dc55)
 
