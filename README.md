@@ -10,7 +10,11 @@
 </a>
 </p>
 
+<div align="justify"> 
+
 This repository contains a Power BI dashboard created to visualize and analyze video game sales data, including key metrics such as sales by region, critic and user scores, and ratings for different platforms, genres, and publishers.
+
+### Data Source [is here !](https://gist.github.com/PickleSnek/14dd6c9e57d557b267566ec1a606dc55)
 
 The dataset used in this project contains the following attributes for each video game:
 - **Name**: The name of the video game.
@@ -30,7 +34,7 @@ The dataset used in this project contains the following attributes for each vide
 - **Developer**: The developer of the game.
 - **Rating**: The content rating of the game (e.g., E, M).
 
-## Features of the Power BI Dashboard
+### Features of the Power BI Dashboard
 
 - **Sales by Region**: Visualize video game sales across different regions (North America, Europe, Japan, Other) and globally.
 - **Critic and User Scores**: Compare critic scores and user scores to analyze how they correlate with sales performance.
@@ -38,11 +42,26 @@ The dataset used in this project contains the following attributes for each vide
 - **Sales Trends**: Track sales trends over time to identify peak years for game sales.
 - **Publisher and Developer Insights**: Analyze which publishers and developers have the highest sales.
 
-## Data Source
-
-
-## Acknowledgments
+### Acknowledgments
 
 - The dataset is sourced from publicly available video game sales data.
 - Thanks to the Power BI community for the amazing resources and tutorials that helped in building this dashboard.
+
+</div>
+
+## Contact
+
+Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/) 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I+hope+this+work+serves+you+well!" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" >
+
 
